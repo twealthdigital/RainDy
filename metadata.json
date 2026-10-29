@@ -1,0 +1,6 @@
+{
+  "name": "RainDy",
+  "description": "Sleek liquid-glass climate change notifier, predictive weather alerts, offline task planner and global climate trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
